@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently studying at JIS College [Kaustav-coder-hub](https://github.com/Kaustav-coder-hub)
-
-- 🤝 I’m looking for help with **Chatbot**
+- 🔭 I’m currently studying at JIS College.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kaustav-coder-hub](https://github.com/Kaustav-coder-hub)
 
-- 📫 How to reach me **kaustavc060@gmail.com**
+- 📫 How to reach me **2004.k.c2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
