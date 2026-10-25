@@ -85,38 +85,50 @@ Machine learning enthusiast · Full-stack developer · Embedded systems & IoT bu
 <table>
 <tr>
 <td width="50%" valign="top">
-  <h3>🚀 <a href="https://github.com/Kaustav-coder-hub/VeriFrame">VeriFrame</a></h3>
-  <p>VeriFrame gives digital media a verifiable identity and history using Cloudinary, AI, cryptographic fingerprints, and blockchain.</p>
-  <p><sub>JavaScript · ⭐ 0 · 🍴 0<br/><sub>Last push: 2026-10-05</sub></sub></p>
+  <h3>🚀 Agent Reach — Self-Healing Internet Router</h3>
+  <p>An open-source AI routing system with semantic evaluation and adaptive fallback routing.</p>
+  <p><sub><a href="https://github.com/Kaustav-coder-hub/Agent-Reach-Jisu-winner-opensource">Agent-Reach-Jisu-winner-opensource</a></sub></p>
+  <p><sub>Multiple technologies · ⭐ 0 · 🍴 0</sub>
+  <br/><sub>Last push: 2026-10-09</sub></p>
 </td>
 <td width="50%" valign="top">
-  <h3>🚀 <a href="https://github.com/Kaustav-coder-hub/VocalEmotion">VocalEmotion</a></h3>
-  <p>A system that analyzes speech recordings and classifies them into emotions like happiness, anger, or sadness.</p>
-  <p><sub>Python · ⭐ 0 · 🍴 0<br/><sub>Last push: 2024-12-06</sub></sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h3>🚀 <a href="https://github.com/Kaustav-coder-hub/Waste-Management-System">Waste-Management-System</a></h3>
-  <p>an waste management system to distinguis btwn dry, wet and metalic waste metarials</p>
-  <p><sub>Java · ⭐ 2 · 🍴 0<br/><sub>Last push: 2025-03-09</sub></sub></p>
-</td>
-<td width="50%" valign="top">
-  <h3>🚀 <a href="https://github.com/Kaustav-coder-hub/My_Portfolio_New">My_Portfolio_New</a></h3>
-  <p>Project description coming soon.</p>
-  <p><sub>JavaScript · ⭐ 1 · 🍴 0<br/><sub>Last push: 2026-10-13</sub></sub></p>
+  <h3>🚀 Thermal Satellite Image Super-Resolution</h3>
+  <p>Optical-guided super-resolution for thermal infrared satellite imagery, with separate frontend and backend.</p>
+  <p><sub><a href="https://github.com/Kaustav-coder-hub/SIH-ISRO_Frontend_Hosting">SIH-ISRO_Frontend_Hosting</a> · <a href="https://github.com/Kaustav-coder-hub/SIH-ISRO_BackEnd_Hosting">SIH-ISRO_BackEnd_Hosting</a></sub></p>
+  <p><sub>JavaScript / Python · ⭐ 0 · 🍴 0</sub>
+  <br/><sub>Last push: 2025-09-21</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <h3>🚀 <a href="https://github.com/Kaustav-coder-hub/AutoCV---Resume-Scoring-System">AutoCV---Resume-Scoring-System</a></h3>
-  <p>Project description coming soon.</p>
-  <p><sub>Python · ⭐ 1 · 🍴 1<br/><sub>Last push: 2025-12-30</sub></sub></p>
+  <h3>🚀 SamudraNet</h3>
+  <p>A project with separate frontend and backend repositories.</p>
+  <p><sub><a href="https://github.com/Kaustav-coder-hub/SIH-ISRO_Frontend_Hosting">SIH-ISRO_Frontend_Hosting</a> · <a href="https://github.com/Kaustav-coder-hub/SIH-ISRO_BackEnd_Hosting">SIH-ISRO_BackEnd_Hosting</a></sub></p>
+  <p><sub>JavaScript / Python · ⭐ 0 · 🍴 0</sub>
+  <br/><sub>Last push: 2025-09-21</sub></p>
 </td>
 <td width="50%" valign="top">
-  <h3>🚀 <a href="https://github.com/Kaustav-coder-hub/ChatBot-Histroy-Annalyzer">ChatBot-Histroy-Annalyzer</a></h3>
-  <p>This project is a chatbot designed to handle both general queries and browser history-related queries. It uses a combination of search engine APIs and browser history data to provide accurate and helpful responses to user queries.</p>
-  <p><sub>Python · ⭐ 1 · 🍴 0<br/><sub>Last push: 2025-04-25</sub></sub></p>
+  <h3>🚀 VeriFrame</h3>
+  <p>Digital media provenance and verification using cryptographic fingerprints and related technologies.</p>
+  <p><sub><a href="https://github.com/Kaustav-coder-hub/VeriFrame">VeriFrame</a></sub></p>
+  <p><sub>JavaScript · ⭐ 0 · 🍴 0</sub>
+  <br/><sub>Last push: 2026-10-05</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3>🚀 VocalEmotion</h3>
+  <p>Deep-learning-based speech emotion recognition.</p>
+  <p><sub><a href="https://github.com/Kaustav-coder-hub/VocalEmotion">VocalEmotion</a></sub></p>
+  <p><sub>Python · ⭐ 0 · 🍴 0</sub>
+  <br/><sub>Last push: 2024-12-06</sub></p>
+</td>
+<td width="50%" valign="top">
+  <h3>🚀 ChatBot-History-Analyzer-2</h3>
+  <p>A chatbot project for general queries and browser-history analysis.</p>
+  <p><sub><a href="https://github.com/Kaustav-coder-hub/ChatBot-Histroy-Annalyzer-2">ChatBot-Histroy-Annalyzer-2</a></sub></p>
+  <p><sub>Multiple technologies · ⭐ 0 · 🍴 0</sub>
+  <br/><sub>Last push: 2025-04-17</sub></p>
 </td>
 </tr>
 </table>
