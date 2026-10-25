@@ -87,54 +87,36 @@ Machine learning enthusiast · Full-stack developer · Embedded systems & IoT bu
 <td width="50%" valign="top">
   <h3>🚀 <a href="https://github.com/Kaustav-coder-hub/VeriFrame">VeriFrame</a></h3>
   <p>VeriFrame gives digital media a verifiable identity and history using Cloudinary, AI, cryptographic fingerprints, and blockchain.</p>
-  <p>
-    <sub>JavaScript · ⭐ 0 · 🍴 0</sub>
-    <br/><sub>Last push: 2026-10-05</sub>
-  </p>
+  <p><sub>JavaScript · ⭐ 0 · 🍴 0<br/><sub>Last push: 2026-10-05</sub></sub></p>
 </td>
 <td width="50%" valign="top">
   <h3>🚀 <a href="https://github.com/Kaustav-coder-hub/VocalEmotion">VocalEmotion</a></h3>
   <p>A system that analyzes speech recordings and classifies them into emotions like happiness, anger, or sadness.</p>
-  <p>
-    <sub>Python · ⭐ 0 · 🍴 0</sub>
-    <br/><sub>Last push: 2024-12-06</sub>
-  </p>
+  <p><sub>Python · ⭐ 0 · 🍴 0<br/><sub>Last push: 2024-12-06</sub></sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <h3>🚀 <a href="https://github.com/Kaustav-coder-hub/Waste-Management-System">Waste-Management-System</a></h3>
   <p>an waste management system to distinguis btwn dry, wet and metalic waste metarials</p>
-  <p>
-    <sub>Java · ⭐ 2 · 🍴 0</sub>
-    <br/><sub>Last push: 2025-03-09</sub>
-  </p>
+  <p><sub>Java · ⭐ 2 · 🍴 0<br/><sub>Last push: 2025-03-09</sub></sub></p>
 </td>
 <td width="50%" valign="top">
   <h3>🚀 <a href="https://github.com/Kaustav-coder-hub/My_Portfolio_New">My_Portfolio_New</a></h3>
-  <p>Add a repository description on GitHub.</p>
-  <p>
-    <sub>JavaScript · ⭐ 1 · 🍴 0</sub>
-    <br/><sub>Last push: 2026-10-13</sub>
-  </p>
+  <p>Project description coming soon.</p>
+  <p><sub>JavaScript · ⭐ 1 · 🍴 0<br/><sub>Last push: 2026-10-13</sub></sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <h3>🚀 <a href="https://github.com/Kaustav-coder-hub/AutoCV---Resume-Scoring-System">AutoCV---Resume-Scoring-System</a></h3>
-  <p>Add a repository description on GitHub.</p>
-  <p>
-    <sub>Python · ⭐ 1 · 🍴 1</sub>
-    <br/><sub>Last push: 2025-12-30</sub>
-  </p>
+  <p>Project description coming soon.</p>
+  <p><sub>Python · ⭐ 1 · 🍴 1<br/><sub>Last push: 2025-12-30</sub></sub></p>
 </td>
 <td width="50%" valign="top">
   <h3>🚀 <a href="https://github.com/Kaustav-coder-hub/ChatBot-Histroy-Annalyzer">ChatBot-Histroy-Annalyzer</a></h3>
   <p>This project is a chatbot designed to handle both general queries and browser history-related queries. It uses a combination of search engine APIs and browser history data to provide accurate and helpful responses to user queries.</p>
-  <p>
-    <sub>Python · ⭐ 1 · 🍴 0</sub>
-    <br/><sub>Last push: 2025-04-25</sub>
-  </p>
+  <p><sub>Python · ⭐ 1 · 🍴 0<br/><sub>Last push: 2025-04-25</sub></sub></p>
 </td>
 </tr>
 </table>
@@ -175,9 +157,9 @@ Machine learning enthusiast · Full-stack developer · Embedded systems & IoT bu
 
 <!-- ACTIVITY:START -->
 - `2026-10-25` — pushed 0 commit(s) to [Kaustav-coder-hub/Kaustav-coder-hub](https://github.com/Kaustav-coder-hub/Kaustav-coder-hub)
+- `2026-10-25` — pushed 0 commit(s) to [Kaustav-coder-hub/Kaustav-coder-hub](https://github.com/Kaustav-coder-hub/Kaustav-coder-hub)
 - `2026-10-13` — pushed 0 commit(s) to [Kaustav-coder-hub/My_Portfolio_New](https://github.com/Kaustav-coder-hub/My_Portfolio_New)
 - `2026-10-09` — pushed 0 commit(s) to [roy-gunjan743/Agent-Reach-Jisu](https://github.com/roy-gunjan743/Agent-Reach-Jisu)
-- `2026-10-08` — pushed 0 commit(s) to [roy-gunjan743/Agent-Reach-Jisu](https://github.com/roy-gunjan743/Agent-Reach-Jisu)
 - `2026-10-08` — pushed 0 commit(s) to [roy-gunjan743/Agent-Reach-Jisu](https://github.com/roy-gunjan743/Agent-Reach-Jisu)
 - `2026-10-08` — pushed 0 commit(s) to [roy-gunjan743/Agent-Reach-Jisu](https://github.com/roy-gunjan743/Agent-Reach-Jisu)
 <!-- ACTIVITY:END -->
