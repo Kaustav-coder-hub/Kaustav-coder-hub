@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Lightweight README sanity checks; intentionally does not make network requests."""
+"""Lightweight README sanity checks; no network requests."""
 from pathlib import Path
 import re
 import sys
@@ -11,7 +11,7 @@ text = path.read_text(encoding="utf-8")
 required = [
     "<!-- PROJECTS:START -->", "<!-- PROJECTS:END -->",
     "<!-- ACTIVITY:START -->", "<!-- ACTIVITY:END -->",
-    "https://kaustavworks.tech",
+    "https://kaustavworks.netlify.app",
 ]
 missing = [item for item in required if item not in text]
 if missing:

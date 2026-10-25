@@ -9,7 +9,7 @@
 Machine learning enthusiast · Full-stack developer · Embedded systems & IoT builder
 
 <p>
-  <a href="https://kaustavworks.tech"><img src="https://img.shields.io/badge/Portfolio-kaustavworks.tech-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://kaustavworks.netlify.app"><img src="https://img.shields.io/badge/Portfolio-kaustavworks.netlify.app-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/Kaustav-coder-hub"><img src="https://img.shields.io/badge/GitHub-Kaustav--coder--hub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="mailto:2004.k.c2@gmail.com"><img src="https://img.shields.io/badge/Email-2004.k.c2%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -78,10 +78,11 @@ Machine learning enthusiast · Full-stack developer · Embedded systems & IoT bu
   </tr>
 </table>
 
-## 🚀 Featured projects
+## 🚀 Featured Projects
+
+<p align="left">A live selection of my public repositories, refreshed automatically by GitHub Actions.</p>
 
 <!-- PROJECTS:START -->
-_Projects will be populated automatically from your public GitHub repositories._
 <!-- PROJECTS:END -->
 
 ## 🧰 Tech I work with
@@ -127,7 +128,7 @@ _Recent public GitHub activity will appear here automatically._
 
 ### Let's build something meaningful.
 
-<a href="https://kaustavworks.tech">Explore my work</a> ·
+<a href="https://kaustavworks.netlify.app">Explore my work</a> ·
 <a href="mailto:2004.k.c2@gmail.com">Get in touch</a>
 
 <br /><br />

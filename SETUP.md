@@ -35,3 +35,8 @@ This kit is designed for the special profile repository `Kaustav-coder-hub/Kaust
 - If the default branch is `master`, update `branches: [main]` in both workflow files.
 - If a repository has no description, add one in that repository's About panel.
 - If the profile README does not appear, confirm the repository name matches your username exactly and that `README.md` is at the repository root.
+
+
+## Project section design update
+
+The Projects section now renders a compact two-column HTML table rather than a plain bullet list. Each card uses real public GitHub metadata: repository link, description, primary language, stars, forks, and last push date. The script prefers selected repositories by name when those repositories are public, then fills remaining slots using actual repository metadata. If a repository has no description, add one in the repository's GitHub About panel.
