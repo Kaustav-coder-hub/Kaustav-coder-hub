@@ -81,7 +81,12 @@ Machine learning enthusiast · Full-stack developer · Embedded systems & IoT bu
 ## 🚀 Featured projects
 
 <!-- PROJECTS:START -->
-_Projects will be populated automatically from your public GitHub repositories._
+- **[Waste-Management-System](https://github.com/Kaustav-coder-hub/Waste-Management-System)** · `Java` — an waste management system to distinguis btwn dry, wet and metalic waste metarials
+- **[My_Portfolio_New](https://github.com/Kaustav-coder-hub/My_Portfolio_New)** · `JavaScript` — Public repository; description not added yet.
+- **[AutoCV---Resume-Scoring-System](https://github.com/Kaustav-coder-hub/AutoCV---Resume-Scoring-System)** · `Python` — Public repository; description not added yet.
+- **[ChatBot-Histroy-Annalyzer](https://github.com/Kaustav-coder-hub/ChatBot-Histroy-Annalyzer)** · `Python` — This project is a chatbot designed to handle both general queries and browser history-related queries. It uses a combination of search engine APIs and browser history data to provide accurate and helpful responses to user queries.
+- **[GemmaForge](https://github.com/Kaustav-coder-hub/GemmaForge)** — The open source coding agent.
+- **[VeriFrame](https://github.com/Kaustav-coder-hub/VeriFrame)** · `JavaScript` — VeriFrame gives digital media a verifiable identity and history using Cloudinary, AI, cryptographic fingerprints, and blockchain.
 <!-- PROJECTS:END -->
 
 ## 🧰 Tech I work with
@@ -118,7 +123,14 @@ _Projects will be populated automatically from your public GitHub repositories._
 ## 🔄 Recent activity
 
 <!-- ACTIVITY:START -->
-_Recent public GitHub activity will appear here automatically._
+- `2026-10-18` — starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+- `2026-10-18` — starred [aakarim/OpenLore](https://github.com/aakarim/OpenLore)
+- `2026-10-13` — pushed 0 commit(s) to [Kaustav-coder-hub/My_Portfolio_New](https://github.com/Kaustav-coder-hub/My_Portfolio_New)
+- `2026-10-09` — pushed 0 commit(s) to [roy-gunjan743/Agent-Reach-Jisu](https://github.com/roy-gunjan743/Agent-Reach-Jisu)
+- `2026-10-08` — pushed 0 commit(s) to [roy-gunjan743/Agent-Reach-Jisu](https://github.com/roy-gunjan743/Agent-Reach-Jisu)
+- `2026-10-09` — forked [roy-gunjan743/Agent-Reach-Jisu](https://github.com/roy-gunjan743/Agent-Reach-Jisu)
+- `2026-10-08` — pushed 0 commit(s) to [roy-gunjan743/Agent-Reach-Jisu](https://github.com/roy-gunjan743/Agent-Reach-Jisu)
+- `2026-10-08` — pushed 0 commit(s) to [roy-gunjan743/Agent-Reach-Jisu](https://github.com/roy-gunjan743/Agent-Reach-Jisu)
 <!-- ACTIVITY:END -->
 
 ---
