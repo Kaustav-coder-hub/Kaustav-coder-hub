@@ -83,6 +83,7 @@ Machine learning enthusiast · Full-stack developer · Embedded systems & IoT bu
 <p align="left">A live selection of my public repositories, refreshed automatically by GitHub Actions.</p>
 
 <!-- PROJECTS:START -->
+_Projects will be populated automatically from your public GitHub repositories._
 <!-- PROJECTS:END -->
 
 ## 🧰 Tech I work with
@@ -119,7 +120,14 @@ Machine learning enthusiast · Full-stack developer · Embedded systems & IoT bu
 ## 🔄 Recent activity
 
 <!-- ACTIVITY:START -->
-_Recent public GitHub activity will appear here automatically._
+- `2026-10-18` — starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+- `2026-10-18` — starred [aakarim/OpenLore](https://github.com/aakarim/OpenLore)
+- `2026-10-13` — pushed 0 commit(s) to [Kaustav-coder-hub/My_Portfolio_New](https://github.com/Kaustav-coder-hub/My_Portfolio_New)
+- `2026-10-09` — pushed 0 commit(s) to [roy-gunjan743/Agent-Reach-Jisu](https://github.com/roy-gunjan743/Agent-Reach-Jisu)
+- `2026-10-08` — pushed 0 commit(s) to [roy-gunjan743/Agent-Reach-Jisu](https://github.com/roy-gunjan743/Agent-Reach-Jisu)
+- `2026-10-09` — forked [roy-gunjan743/Agent-Reach-Jisu](https://github.com/roy-gunjan743/Agent-Reach-Jisu)
+- `2026-10-08` — pushed 0 commit(s) to [roy-gunjan743/Agent-Reach-Jisu](https://github.com/roy-gunjan743/Agent-Reach-Jisu)
+- `2026-10-08` — pushed 0 commit(s) to [roy-gunjan743/Agent-Reach-Jisu](https://github.com/roy-gunjan743/Agent-Reach-Jisu)
 <!-- ACTIVITY:END -->
 
 ---
