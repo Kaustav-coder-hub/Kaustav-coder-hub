@@ -168,8 +168,7 @@ Machine learning enthusiast · Full-stack developer · Embedded systems & IoT bu
 ## 🔄 Recent activity
 
 <!-- ACTIVITY:START -->
-- `2026-10-31` — pushed 0 commit(s) to [roy-gunjan743/DIXY](https://github.com/roy-gunjan743/DIXY)
-- `2026-10-30` — pushed 0 commit(s) to [roy-gunjan743/DIXY](https://github.com/roy-gunjan743/DIXY)
+- `2026-10-25` — pushed 0 commit(s) to [Kaustav-coder-hub/Kaustav-coder-hub](https://github.com/Kaustav-coder-hub/Kaustav-coder-hub)
 - `2026-10-25` — pushed 0 commit(s) to [Kaustav-coder-hub/Kaustav-coder-hub](https://github.com/Kaustav-coder-hub/Kaustav-coder-hub)
 - `2026-10-25` — pushed 0 commit(s) to [Kaustav-coder-hub/Kaustav-coder-hub](https://github.com/Kaustav-coder-hub/Kaustav-coder-hub)
 - `2026-10-25` — pushed 0 commit(s) to [Kaustav-coder-hub/Kaustav-coder-hub](https://github.com/Kaustav-coder-hub/Kaustav-coder-hub)
